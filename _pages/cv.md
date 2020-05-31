@@ -9,14 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+[Download My Academic CV](http://academicpages.github.io/files/Bowen_Academic_CV.pdf)
+
+## Education
+
 * Ph.D. in Agricultural Economics, Kansas State University, U.S.A., 2019
 * Master's in Rural and Regional Development, Chinese Academy of Agricultural Sciences, China, 2015
 * B.A. in English, Beijing University of Chemical Technology, China, 2012
 
-Work experience
-======
+## Work experience
+
 * August 2019 - Present
   * Role: Postdoctoral Scholar
   * University of Illinois at Urbana Champaign
@@ -31,15 +33,15 @@ Work experience
   * Kansas State University
   * Supervisor: [Dr. Nelson Villoria](https://www.ageconomics.k-state.edu/directory/faculty_directory/villoria/index.html)
   
-Skills
-======
+## Skills
+
 * Data Analytics 
 * Econometrics & Statistics
   * Causual Inference 
   * Machine learning
 
-Conferences
-======
+## Conference Presentations
+
 * pERE Seminar at University of Illinois at Urbana-Champaign, IL, 2020.
 * Research Seminar at University of Nebraska-Lincoln, NE, 2019.
 * Research Seminar at Kansas State University, KS, 2019.
@@ -52,15 +54,15 @@ Conferences
 * Agricultural & Applied Economics Association (AAEA) Annual Meeting, Boston, 2016.
 
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

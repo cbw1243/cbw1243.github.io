@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ag/Applied Economist"
   location         : "Urbana, IL"
-  employer         : "University of Illinois"
+  employer         :  #"University of Illinois"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DdWxk-EAAAAJ&hl=en"
   email            :  "bwchen@illinois.edu"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/bwchen0719/"
-  orcid            : "https://orcid.org/0000-0003-0370-2756"
+  orcid            : #"https://orcid.org/0000-0003-0370-2756"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

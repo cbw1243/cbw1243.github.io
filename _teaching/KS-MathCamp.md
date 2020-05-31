@@ -3,7 +3,7 @@ title: "Maths Review and Computer Programming"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/KS-MathCamp
-institution: "Kansas State University"
+venue: "Kansas State University"
 date: 2018-08-01
 excerpt: "<i>Instructor</i><br/>"
 ---

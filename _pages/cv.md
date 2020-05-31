@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download My Academic CV](http://academicpages.github.io/files/Bowen_Academic_CV.pdf)
+[Download My Academic CV](http://cbw1243.github.io/files/Bowen_Academic_CV.pdf)
 
 ## Education
 

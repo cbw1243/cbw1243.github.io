@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Agricultural Economics, Kansas State University, U.S.A., 2019
+* Master's in Rural and Regional Development, Chinese Academy of Agricultural Sciences, China, 2015
+* B.A. in English, Beijing University of Chemical Technology, China, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019 - : Postdoctoral Scholar
+  * University of Illinois at Urbana Champaign
+  * Duties included: I work on a USDA funded project titled 
+  * Supervisor: Dr. Benjamin Gramig 
 
-* Fall 2015: Research Assistant
-  * Github University
+* January 2019 - August 2019: Data Scientist Coop
+  * Bayer Crop Science, Saint Louis
+  * Duties included: Apply machine learning models to solve business problems. 
+
+* Fall 2015 - December 2018: Graduate Research Assistant
+  * Kansas State University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr. Nelson Villoria 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Econometrics & Statistics
+  * Causual Inference 
+  * Machine learning
 
 Publications
 ======
@@ -42,11 +43,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -54,6 +50,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Media citation
 ======
-* Currently signed in to 43 different slack teams
+* "Importing maize stabilizes prices at home". Physics World, February 19, 2019.

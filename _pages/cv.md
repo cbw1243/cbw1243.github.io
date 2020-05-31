@@ -17,25 +17,40 @@ Education
 
 Work experience
 ======
-* August 2019 - : Postdoctoral Scholar
+* August 2019 - Present
+  * Role: Postdoctoral Scholar
   * University of Illinois at Urbana Champaign
-  * Duties included: I work on a USDA funded project titled 
-  * Supervisor: Dr. Benjamin Gramig 
+  * Supervisor: [Dr. Benjamin Gramig](https://ace.illinois.edu/directory/bgramig)
 
-* January 2019 - August 2019: Data Scientist Coop
+* January 2019 - August 2019 
+  * Role: Data Scientist Co-op
   * Bayer Crop Science, Saint Louis
-  * Duties included: Apply machine learning models to solve business problems. 
 
-* Fall 2015 - December 2018: Graduate Research Assistant
+* Fall 2015 - December 2018: 
+  * Role: Graduate Research Assistant
   * Kansas State University
-  * Duties included: Merging pull requests
-  * Supervisor: Dr. Nelson Villoria 
+  * Supervisor: [Dr. Nelson Villoria](https://www.ageconomics.k-state.edu/directory/faculty_directory/villoria/index.html)
   
 Skills
 ======
+* Data Analytics 
 * Econometrics & Statistics
   * Causual Inference 
   * Machine learning
+
+Conferences
+======
+* pERE Seminar at University of Illinois at Urbana-Champaign, IL, 2020.
+* Research Seminar at University of Nebraska-Lincoln, NE, 2019.
+* Research Seminar at Kansas State University, KS, 2019.
+* pERE Seminar at University of Illinois at Urbana-Champaign, IL, 2019.
+* Agricultural & Applied Economics Association (AAEA) Annual Meeting, Atlanta, 2019.
+* Agricultural & Applied Economics Association (AAEA) Annual Meeting, Washington, D.C., 2018.
+* International Agricultural Trade Research Consortium Annual Meeting, Washington, D.C., 2017.
+* Conference on Applied Statistics in Agriculture, Manhattan, KS, 2017.
+* K-State Graduate Research, Arts, and Discovery Forum, Manhattan, KS, 2017.
+* Agricultural & Applied Economics Association (AAEA) Annual Meeting, Boston, 2016.
+
 
 Publications
 ======
@@ -50,6 +65,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Media citation
-======
-* "Importing maize stabilizes prices at home". Physics World, February 19, 2019.
+
+
+
+
+
+
+
+

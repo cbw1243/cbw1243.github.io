@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bowen Chen"
   avatar           : "profile.png"
-  bio              : "Applied Economist"
+  bio              : "Ag/Applied Economist"
   location         : "Urbana, IL"
   employer         : "University of Illinois"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -227,7 +227,7 @@ defaults:
   # _Current Research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true

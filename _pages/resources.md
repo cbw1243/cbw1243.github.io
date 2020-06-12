@@ -12,6 +12,7 @@ redirect_from:
  - Bowen Chen (2020). **endoSwitch**: Endogenous Switching Regression Models. R package version 1.0.0. [CRAN](https://CRAN.R-project.org/package=endoSwitch)
  - Bowen Chen (2020). **rarms**: Access Data from the USDA ARMS Data API. R package version 1.0.0. [CRAN]( https://CRAN.R-project.org/package=rarms)
  - Bowen Chen (2020). **CropScapeR**: Access Cropland Data Layer data via the CropScape web service. [GitHub](https://github.com/cbw1243/CropScapeR)
+ - Bowen Chen, Elliott J. Dennis (2020). **usdampr**: Request current and historical USDA-AMS MPR data. [GitHub](https://github.com/cbw1243/usdampr)
 
 ## Learning materials
 

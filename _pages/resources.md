@@ -33,7 +33,7 @@ redirect_from:
  
 ### Economics & Econometrics 
  - [Econometric Sense](http://econometricsense.blogspot.com/): a blog ran by Dr. Matt Bogard, who makes sense of econometrics with plain language and few formulas.
- - [World Bank Blog](https://blogs.worldbank.org/): an useful online platform for R users to blog about R.
+ - [World Bank Blog](https://blogs.worldbank.org/): world bank blog. 
 
 ### Climate Change
  - [G-FEED](http://www.g-feed.com/): an interdisciplinary group posting interesting things about food, environment, and economics. 

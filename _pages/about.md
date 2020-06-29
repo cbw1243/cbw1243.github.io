@@ -21,7 +21,8 @@ Hi! I am Bowen, a postdoctoral scholar in the Department of Agricultural and Con
 I am an agricultural economist by training and earned my PhD at the Kansas State University in 2019. My research fields are **_international trade_** and **_production economics_**. I work predominantly on applied research at the intersection of international trade, development, agricultural policy, and the environment. My present research seeks to understand the role of international trade and conservation practices in mitigating climate change impacts on the global agriculture. I have dealt extensively with fine-scale geospatial and temporal data with applications to modern statistical models, econometrics, and data science tools. 
 
 Latest work:
- - **usdampr**: an R package to request current and historical USDA-AMS MPR data. [GitHub](https://github.com/cbw1243/usdampr)
+ - **usdampr**: an R package to request current and historical USDA-AMS MPR data. [GitHub](https://github.com/cbw1243/usdampr)   
+ - **CropScapeR**: Access the U.S. cropland data from Cropland Data Layer. Accepted by [_CRAN_](https://cran.r-project.org/web/packages/CropScapeR/index.html)
 
 
 

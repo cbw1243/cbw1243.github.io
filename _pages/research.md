@@ -19,6 +19,8 @@ This research seeks to understand the impacts of conservation practices on crop 
  - "Conservation Tillage Mitigates Drought Induced Soybean Yield Losses in the Corn Belt", with Benjamin Gramig, Seong D. Yun. 
 
  - "A Causal Analysis of the Effect of Conservation Tillage on U.S. Corn and Soybean Yield and Profitability", with Benjamin Gramig, Seong D. Yun. 
+ 
+ - "Modeling Conservation Tillage Adoption by Corn Producers: A Machine Learning Approach", with Benjamin Gramig, Seong D. Yun. 
 
 
 

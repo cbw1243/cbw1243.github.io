@@ -23,6 +23,7 @@ I am an agricultural economist by training and earned my PhD at the Kansas State
 Latest work:
  - **usdampr**: Request for Livestock Mandatory Reporting data. Accepted by [_CRAN_](https://cran.r-project.org/web/packages/usdampr/index.html)   
  - **CropScapeR**: Access the U.S. cropland data from Cropland Data Layer. Accepted by [_CRAN_](https://cran.r-project.org/web/packages/CropScapeR/index.html)
+ - Article: "Weather Impacts the Agricultural Production Efficiency of Wheat: The Emerging Role of Precipitation Shocks" (_Under review_)
 
 
 

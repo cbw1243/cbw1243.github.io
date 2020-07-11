@@ -9,10 +9,10 @@ redirect_from:
 
 ## Software
 
- - Bowen Chen (2020). **endoSwitch**: Endogenous Switching Regression Models. ![CRAN/METACRAN](https://img.shields.io/cran/v/endoSwitch?color=brightgreen) ![](http://cranlogs.r-pkg.org/badges/grand-total/endoSwitch?color=brightgreen)   
- - Bowen Chen (2020). **rarms**: Access Data from the USDA ARMS Data API. R package version 1.0.0. [CRAN]( https://CRAN.R-project.org/package=rarms)
- - Bowen Chen (2020). **CropScapeR**: Access Cropland Data Layer data via the CropScape web service. [CRAN](https://cran.r-project.org/web/packages/CropScapeR/index.html),[GitHub](https://github.com/cbw1243/CropScapeR)   
- - Bowen Chen, Elliott J. Dennis (2020). **usdampr**: Request current and historical USDA-AMS MPR data. [CRAN](https://cran.r-project.org/web/packages/usdampr/index.html),[GitHub](https://github.com/cbw1243/usdampr)
+ - Bowen Chen (2020). [**endoSwitch**](https://github.com/cbw1243/endoSwitch): Endogenous Switching Regression Models. ![CRAN/METACRAN](https://img.shields.io/cran/v/endoSwitch?color=brightgreen) ![](http://cranlogs.r-pkg.org/badges/grand-total/endoSwitch?color=brightgreen)   
+ - Bowen Chen (2020). [**rarms**](https://github.com/cbw1243/rarms): Access Data from the USDA ARMS Data API. ![CRAN/METACRAN](https://img.shields.io/cran/v/rarms?color=brightgreen) ![](http://cranlogs.r-pkg.org/badges/grand-total/rarms?color=brightgreen)   
+ - Bowen Chen (2020). [**CropScapeR**](https://github.com/cbw1243/CropScapeR): Access Cropland Data Layer data via the CropScape web service. ![CRAN/METACRAN](https://img.shields.io/cran/v/CropScapeR?color=brightgreen) ![](http://cranlogs.r-pkg.org/badges/grand-total/CropScapeR?color=brightgreen)   
+ - Bowen Chen, Elliott J. Dennis (2020). [**usdampr**](https://github.com/cbw1243/usdampr): Request current and historical USDA-AMS MPR data. ![CRAN/METACRAN](https://img.shields.io/cran/v/usdampr?color=brightgreen) ![](http://cranlogs.r-pkg.org/badges/grand-total/usdampr?color=brightgreen)   
 
 ## Learning materials
 

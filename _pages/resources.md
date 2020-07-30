@@ -27,6 +27,7 @@ redirect_from:
  - [UC Business Analytics R Programming Guide](http://uc-r.github.io/): A well-written book that explains elements of R that are essential for data analytics. 
  - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html): A free e-book that teaches Econometrics using R.   
  - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/): A free e-book providing hands-on modules for many of the most common machine learning methods.  
+ - [R as GIS for Economists](https://tmieno2.github.io/R-as-GIS-for-Economists/): Introducing spatial data processing for econometric projects in R. 
  
 #### Python 
  - [Python for Data Analysis](https://www.amazon.com/gp/product/1491957662/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=amazonaffi048-20&creative=9325&linkCode=as2&creativeASIN=1491957662&linkId=ca87c0dc52af4fefb49377651641428d): A book written by the creator of Pandas. 

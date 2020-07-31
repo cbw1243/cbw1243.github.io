@@ -20,10 +20,14 @@ Hi! I am Bowen, a postdoctoral scholar in the Department of Agricultural and Con
 
 I am an agricultural economist by training and earned my PhD at the Kansas State University in 2019. My research fields are **_international trade_** and **_production economics_**. I work predominantly on applied research at the intersection of international trade, development, agricultural policy, and the environment. My present research seeks to understand the role of international trade and conservation practices in mitigating climate change impacts on the global agriculture. I have dealt extensively with fine-scale geospatial and temporal data with applications to modern statistical models, econometrics, and data science tools. 
 
-Latest work:
+_Latest work_:
  - **usdampr**: Request for Livestock Mandatory Reporting data. Accepted by [_CRAN_](https://cran.r-project.org/web/packages/usdampr/index.html)   
  - **CropScapeR**: Access the U.S. cropland data from Cropland Data Layer. Accepted by [_CRAN_](https://cran.r-project.org/web/packages/CropScapeR/index.html)
- - Article: "Weather Impacts the Agricultural Production Efficiency of Wheat: The Emerging Role of Precipitation Shocks" (_Under review_)
+ 
+ _Papers under review_:    
+ - "Weather Impacts the Agricultural Production Efficiency of Wheat: The Emerging Role of Precipitation Shocks".  
+ - "Conservation Tillage Mitigates Drought Induced Soybean Yield Losses in the US Corn Belt". 
+ - "A Causal Analysis of the Effect of Conservation Tillage on U.S. Corn and Soybean Yield and Profitability". 
 
 
 

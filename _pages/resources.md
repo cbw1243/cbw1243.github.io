@@ -20,6 +20,7 @@ redirect_from:
 #### General
  - [Towards Data Science](https://towardsdatascience.com/): A neat website that shares concepts, ideas, and codes about data science.
  - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): A guide for making black box models explainable.  
+ - [An Introduction to Statistical Learning](https://www.springer.com/gp/book/9781461471370): Providing an accessible overview of the field of statistical learning. 
 
 #### R   
  - [R blogger](https://www.r-bloggers.com/): an useful online platform for R users to blog about R.

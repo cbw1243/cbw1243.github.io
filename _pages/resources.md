@@ -14,13 +14,15 @@ redirect_from:
  - Bowen Chen (2020). [**CropScapeR**](https://github.com/cbw1243/CropScapeR): Access Cropland Data Layer data via the CropScape web service. ![CRAN/METACRAN](https://img.shields.io/cran/v/CropScapeR?color=brightgreen) ![](http://cranlogs.r-pkg.org/badges/grand-total/CropScapeR?color=brightgreen)   
  - Bowen Chen, Elliott J. Dennis (2020). [**usdampr**](https://github.com/cbw1243/usdampr): Request current and historical USDA-AMS MPR data. ![CRAN/METACRAN](https://img.shields.io/cran/v/usdampr?color=brightgreen) ![](http://cranlogs.r-pkg.org/badges/grand-total/usdampr?color=brightgreen)   
 
+
 ## Learning materials
 
 ### Data Science 
 #### General
  - [Towards Data Science](https://towardsdatascience.com/): A neat website that shares concepts, ideas, and codes about data science.
  - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): A guide for making black box models explainable.  
- - [An Introduction to Statistical Learning](https://www.springer.com/gp/book/9781461471370): Providing an accessible overview of the field of statistical learning. 
+ - [An Introduction to Statistical Learning](https://www.springer.com/gp/book/9781461471370): Providing an accessible overview of the field of statistical learning.   
+ - [Think Julia: How to think like a computer scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#_running_julia): A book about Julia but not only about Julia. Good for learning how to think like a programmer.    
 
 #### R   
  - [R blogger](https://www.r-bloggers.com/): an useful online platform for R users to blog about R.
@@ -33,7 +35,8 @@ redirect_from:
  - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/): Building predictive models from text data in R. 
  
 #### Python 
- - [Python for Data Analysis](https://www.amazon.com/gp/product/1491957662/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=amazonaffi048-20&creative=9325&linkCode=as2&creativeASIN=1491957662&linkId=ca87c0dc52af4fefb49377651641428d): A book written by the creator of Pandas. 
+ - [Python for Data Analysis](https://www.amazon.com/gp/product/1491957662/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=amazonaffi048-20&creative=9325&linkCode=as2&creativeASIN=1491957662&linkId=ca87c0dc52af4fefb49377651641428d): A book written by the creator of Pandas.    
+ - [Think Python](https://greenteapress.com/wp/think-python/): Introduction to Python programming for beginners.    
  
 ### Economics & Econometrics 
  - [Econometric Sense](http://econometricsense.blogspot.com/): a blog ran by Dr. Matt Bogard, who makes sense of econometrics with plain language and few formulas.

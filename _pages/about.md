@@ -24,10 +24,13 @@ _Latest work_:
  - **usdampr**: Request for Livestock Mandatory Reporting data. Accepted by [_CRAN_](https://cran.r-project.org/web/packages/usdampr/index.html)   
  - **CropScapeR**: Access the U.S. cropland data from Cropland Data Layer. Accepted by [_CRAN_](https://cran.r-project.org/web/packages/CropScapeR/index.html)
  
+_Conference paper_:
+ - "A Causal Analysis of the Effect of Conservation Tillage on U.S. Corn and Soybean Yield and Profitability" (AAEA Annual Conference, 2020); [Paper](https://ageconsearch.umn.edu/record/304296?ln=en), [Slides](http://www.bwchen.com/files/Bowen_Chen_Tillage_AAEA_2020_Slide.pdf)
+ 
  _Papers under review_:    
  - "Weather Impacts the Agricultural Production Efficiency of Wheat: The Emerging Role of Precipitation Shocks".  
  - "Conservation Tillage Mitigates Drought Induced Soybean Yield Losses in the US Corn Belt". 
- - "A Causal Analysis of the Effect of Conservation Tillage on U.S. Corn and Soybean Yield and Profitability". 
+ 
 
 
 

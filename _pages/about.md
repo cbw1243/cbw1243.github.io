@@ -16,9 +16,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Bowen, a postdoctoral scholar in the Department of Agricultural and Consumer Economics at the University of Illinois. I work in the [Gramig Lab](https://www.bengramig.com/) led by [Dr. Benjamin Gramig](https://ace.illinois.edu/directory/bgramig). 
+Hi! Welcome to my website. I am Bowen Chen, an agricultural economist by training and earned my PhD ([Dr. Nelson Villoria](https://www.ageconomics.k-state.edu/directory/faculty_directory/villoria/index.html) was my advisor) at the Kansas State University in 2019. 
 
-I am an agricultural economist by training and earned my PhD at the Kansas State University in 2019. My research fields are **_international trade_** and **_production economics_**. I work predominantly on applied research at the intersection of international trade, development, agricultural policy, and the environment. My present research seeks to understand the role of international trade and conservation practices in mitigating climate change impacts on the global agriculture. I have dealt extensively with fine-scale geospatial and temporal data with applications to modern statistical models, econometrics, and data science tools. 
+I currently work for [Bunge](https://www.bunge.com/) at its global headquarter located in Saint Louis as a data scientist. Before joining Bunge, I worked for [Bayer Crop Science](https://www.cropscience.bayer.com/) as a data scientist co-op and also worked for the [Gramig Lab](https://www.bengramig.com/) led by [Dr. Benjamin Gramig](https://ace.illinois.edu/directory/bgramig) at the University of Illinois as a postdoctoral scholar. 
+
+My fields of interests are **_international trade_** and **_production economics_**. My past academic works were mostly applied research at the intersection of international trade, development, agricultural policy, and the environment. The research goal was to understand the roles of international trade and conservation practices in mitigating climate change impacts on the global agriculture. I have dealt extensively with fine-scale geospatial and temporal data with applications to modern statistical models, econometrics, and data science tools. By joining Bunge, I seek to better understand the challenges facing the global food supply chain and to learn more advanced tools to address those challenges. 
+ 
 
 _Latest work_:
  - **usdampr**: Request for Livestock Mandatory Reporting data. Accepted by [_CRAN_](https://cran.r-project.org/web/packages/usdampr/index.html)   

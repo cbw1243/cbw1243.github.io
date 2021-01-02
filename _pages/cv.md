@@ -18,8 +18,11 @@ redirect_from:
 * B.A. in English, Beijing University of Chemical Technology, China, 2012
 
 ## Work experience
+* September 2020 - Present    
+  * Role: Data Scientist     
+  * Bunge, Saint Louis   
 
-* August 2019 - Present
+* August 2019 - August 2020  
   * Role: Postdoctoral Scholar
   * University of Illinois at Urbana Champaign
   * Supervisor: [Dr. Benjamin Gramig](https://ace.illinois.edu/directory/bgramig)
@@ -36,6 +39,8 @@ redirect_from:
 ## Skills
 
 * Data Analytics 
+  * R (6 years) 
+  * Python (1 year)  
 * Econometrics & Statistics
   * Causual Inference 
   * Machine learning

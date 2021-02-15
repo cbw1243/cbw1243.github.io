@@ -16,11 +16,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my website. I am Bowen Chen, an agricultural economist by training and earned my PhD ([Dr. Nelson Villoria](https://www.ageconomics.k-state.edu/directory/faculty_directory/villoria/index.html) was my advisor) at the Kansas State University in 2019. 
+Hi! Welcome to my website. My name is Bowen Chen. I am an agricultural economist by training and earned my PhD ([Dr. Nelson Villoria](https://www.ageconomics.k-state.edu/directory/faculty_directory/villoria/index.html) was my advisor) at the Kansas State University in 2019. 
 
-I currently work for [Bunge](https://www.bunge.com/) at its global headquarter located in Saint Louis as a data scientist. Before joining Bunge, I worked for [Bayer Crop Science](https://www.cropscience.bayer.com/) as a data scientist co-op and also worked for the [Gramig Lab](https://www.bengramig.com/) led by [Dr. Benjamin Gramig](https://ace.illinois.edu/directory/bgramig) at the University of Illinois as a postdoctoral scholar. 
+I currently work for [Bunge](https://www.bunge.com/) at its global headquarter located in Saint Louis as a data scientist. Before joining Bunge, I worked for [Bayer Crop Science](https://www.cropscience.bayer.com/) as a data scientist co-op and also worked in the [Gramig Lab](https://www.bengramig.com/) led by [Dr. Benjamin Gramig](https://ace.illinois.edu/directory/bgramig) at the University of Illinois as a postdoctoral scholar. 
 
-My fields of interests are **_international trade_** and **_production economics_**. My past academic works were mostly applied research at the intersection of international trade, development, agricultural policy, and the environment. The research goal was to understand the roles of international trade and conservation practices in mitigating climate change impacts on the global agriculture. I have dealt extensively with fine-scale geospatial and temporal data with applications to modern statistical models, econometrics, and data science tools. By joining Bunge, I seek to better understand the challenges facing the global food supply chain and to learn more advanced tools to address those challenges. 
+My fields of interests are **_international trade_** and **_production economics_**. My research goal is to understand the roles of international trade and conservation practices in mitigating climate change impacts on the global agriculture. I have dealt extensively with fine-scale geospatial and temporal data with applications to modern statistical models, econometrics, and data science tools. By joining Bunge, I seek to better understand the challenges facing the global food supply chain and to learn more advanced tools to address those challenges. 
  
 
 _Latest work_:
